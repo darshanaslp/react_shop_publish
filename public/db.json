@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "red",
+      "title": "Red T-Shirt",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 10,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "image": "black",
+      "title": "Black T-Shirt",
+      "availableSizes": ["X", "M", "L"],
+      "price": 14.9,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "image": "white",
+      "title": "White T-Shirt",
+      "availableSizes": ["X", "M", "L"],
+      "price": 14.9,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "image": "blue",
+      "title": "Blue T-Shirt",
+      "availableSizes": ["XL"],
+      "price": 25.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "image": "green",
+      "title": "Green T-Shirt",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10.9,
+      "isFreeShipping": false
+    }
+    
+  ]
+}
