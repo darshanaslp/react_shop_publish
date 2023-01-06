@@ -9,7 +9,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router": "^4.2.0",
-    "react-scripts": "1.0.16"
+    "react-scripts": "5.0.1"
   },
   "homepage": "https://darshanaslp.github.io/react_shop_publish",
   "scripts": {
